@@ -1,0 +1,25 @@
+package Geek4geek;
+import java.util.Stack;
+
+public class StackQEUS extends Stack<Integer> {
+   	public void push(int a,Stack<Integer> s)
+   	{
+
+   	}
+   	public int pop(Stack<Integer> s)
+           {
+               //add code here.
+   	}
+   	public int min(Stack<Integer> s)
+           {
+              //add code here.
+   	}
+   	public boolean isFull(Stack<Integer>s, int n)
+           {
+              //add code here.
+   	}
+   	public boolean isEmpty(Stack<Integer>s)
+           {
+              //add code here.
+   	}
+   }
